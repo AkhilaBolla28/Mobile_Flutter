@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:startup_namer/Screens/Homepage.dart';
-import 'package:startup_namer/Screens/cardText.dart';
+import 'package:startup_namer/Screens/homepage.dart';
+import 'package:startup_namer/Screens/card_text.dart';
 import 'package:startup_namer/Screens/raffle.dart';
 import 'package:startup_namer/screens/settings.dart';
 import 'package:startup_namer/screens/vendors_list.dart';
